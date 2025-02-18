@@ -1,0 +1,182 @@
+[
+    {
+        "id": 3001,
+        "title": "Blue Denim Jeans",
+        "price": "499",
+        "description": "Classic blue denim jeans, comfortable, durable, versatile, and stylish wardrobe staple.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/6764007/pexels-photo-6764007.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 3002,
+        "title": "T-Shirt",
+        "price": "299",
+        "description": "A simple and sleek black t-shirt, a wardrobe essential.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/2072456/pexels-photo-2072456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.2,
+            "count": 100
+        }
+    },
+    {
+        "id": 3003,
+        "title": "Brown Coat",
+        "price": "1299",
+        "description": "Stylish brown coat, warm, versatile, perfect for chilly weather.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/7096981/pexels-photo-7096981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.5,
+            "count": 200
+        }
+    },
+    {
+        "id": 3004,
+        "title": " Green Jacket",
+        "price": "1699",
+        "description": "Soft and cozy gray jacket for a comfortable, casual look.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/30080154/pexels-photo-30080154/free-photo-of-young-man-in-green-jacket-with-a-confident-look.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.0,
+            "count": 150
+        }
+    },
+    {
+        "id": 3005,
+        "title": "Ralph Lauren Red Casual Shirt",
+        "price": "1449",
+        "description": "Ralph Lauren red casual shirt, stylish, comfortable, versatile, perfect fit.",
+        "category": "men's clothing",
+        "image": "https://images.pexels.com/photos/1760900/pexels-photo-1760900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.3,
+            "count": 130
+        }
+    },
+    {
+        "id": 3006,
+        "title": "Red, Gray ,and Blue Horsebit Loafers",
+        "price": "1599",
+        "description": "Red, gray, and blue Horsebit loafers, stylish, comfortable, timeless design.",
+        "category": "Shoes",
+        "image": "https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.4,
+            "count": 180
+        }
+    },
+    {
+        "id": 3007,
+        "title": "Yellow Dr. Martens Lace-up Boot",
+        "price": "1299",
+        "description": "Yellow Dr. Martens lace-up boots, durable, bold, stylish, classic design.",
+        "category": "Shoes",
+        "image": "https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.6,
+            "count": 160
+        }
+    },
+    {
+        "id": 3008,
+        "title": "Black Dress Shoes",
+        "price": "699",
+        "description": "Black dress shoes, sleek, elegant, comfortable, perfect for formal occasions.",
+        "category": "Shoes",
+        "image": "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.1,
+            "count": 120
+        }
+    },
+    {
+        "id": 3009,
+        "title": "Red and Black Nike Running Shoe",
+        "price": "1499",
+        "description": "Red and black Nike running shoes, stylish, comfortable, performance-driven, durable.",
+        "category": "Shoes",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "review": {
+            "rate": 4.3,
+            "count": 170
+        }
+    },
+    {
+        "id": 3010,
+        "title": "Black-and-white Adidas Sneakers",
+        "price": "1599",
+        "description": "Classic plaid shirt, perfect for casual outings and layering.",
+        "category": "Shoes",
+        "image": "https://images.pexels.com/photos/1407354/pexels-photo-1407354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 3011,
+        "title": "Bluetooth Smart Watch",
+        "price": "1299",
+        "description": "A sleek smartwatch with fitness tracking, heart rate monitor, and notifications.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/3783416/pexels-photo-3783416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.0,
+            "count": 110
+        }
+    },
+    {
+        "id": 3012,
+        "title": "Wireless Noise-Cancelling Headphones",
+        "price": "1899",
+        "description": "High-quality wireless headphones with active noise cancellation for immersive sound.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/7241360/pexels-photo-7241360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.5,
+            "count": 200
+        }
+    },
+    {
+        "id": 3013,
+        "title": "Smart Home Security Camera",
+        "price": "1349",
+        "description": " A Wi-Fi-enabled security camera with motion detection and night vision.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/27934787/pexels-photo-27934787/free-photo-of-smart-home-security-camera-remote-control-electrical-socket.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 3.8,
+            "count": 120
+        }
+    },
+    {
+        "id": 3014,
+        "title": "Portable Bluetooth Speaker",
+        "price": "1799",
+        "description": "Compact and durable Bluetooth speaker with high-quality sound and long battery life.",
+        "category": "electronics",
+        "image": "https://images.pexels.com/photos/4917455/pexels-photo-4917455.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "review": {
+            "rate": 4.1,
+            "count": 140
+        }
+    },
+    {
+        "id": 3015,
+        "title": "4K Ultra HD Smart TV",
+        "price": "1899",
+        "description": "A smart TV with 4K resolution, streaming apps, and voice control integration.",
+        "category": "electronics",
+        "image": "https://media.istockphoto.com/id/1072482470/photo/tv-stock-image.jpg?s=612x612&w=0&k=20&c=oizuI5-7TLXTjUvGcDCClxuYqEem6OZEjVt9OLxmHpM=",
+        "review": {
+            "rate": 4.4,
+            "count": 180
+        }
+    }
+]
